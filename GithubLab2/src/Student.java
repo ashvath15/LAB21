@@ -5,6 +5,8 @@ public class Student {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Students");
+		System.out.println("Hello Teacher");
+		
 
 	}
 
